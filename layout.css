@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
+
+html 
+{
+    background-image: url(https://cdn.pixabay.com/photo/2017/08/30/01/05/milky-way-2695569_960_720.jpg);
+}
+
+body 
+{
+    font-family: 'Oswald', sans-serif;
+    font-size: 18px;
+    line-height: 1.6;
+}
+
+#box
+{
+    width: 800px;
+    margin: 0 auto;
+    background-color: gainsboro;
+    padding: 12px;
+    height: 600px;
+    border: 5px solid red;
+}
+
+header 
+{
+    height: 50px;
+    text-align: center;
+}
+
+#picBox
+{
+    width: 200px;
+    margin: 0 auto;
+    padding: 0px;
+    float: left
+}
+
+#aboutMeBox
+{
+    width: 250px;
+    margin: 0 auto;
+    padding: 0px;
+    float: right
+   
+}
+
+#skillsBox
+{
+    width: 250px;
+    margin: 0 auto;
+    padding: 0px;
+    float: center
+    
+}
+
+#contactInfoBox
+{
+    width: 250px;
+    margin: 0 auto;
+    padding: 0px;
+    float: left
+    
+}
+
+#spicyBox
+{
+    width: 250px;
+    margin: 0 auto;
+    padding: 150px;
+    float: bottom
+    
+}
+
+
+
